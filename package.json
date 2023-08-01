@@ -17,8 +17,8 @@
     "@types/xml2js": "^0.4.0",
     "grunt": "^1.0.1",
     "grunt-contrib-nodeunit": "^5.0.0",
-    "grunt-run": "^0.6.0",
-    "grunt-ts": "github:pisasales/grunt-ts",
+    "grunt-run": "^0.8.1",
+    "grunt-ts": "github:pisasales/grunt-ts",    
     "typescript": "^2.5.3"
   },
   "scripts": {
